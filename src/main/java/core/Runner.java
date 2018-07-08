@@ -1,14 +1,13 @@
 package core;
 
-import logic.ParticleSwarm;
+import knotHash.logic.KnotHash;
 
 public class Runner {
 
 	public static void main(final String[] args) {
 
-		final ParticleSwarm swarm = new ParticleSwarm();
-
-		new Thread(swarm).start();
+		// new Thread(new ParticleSwarm()).start();
+		new Thread(new KnotHash()).start();
 
 	}
 
