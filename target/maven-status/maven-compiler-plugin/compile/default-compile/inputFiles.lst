@@ -1,4 +1,7 @@
-C:\Software\GIT\java\eclipseWorkspace\AdventOfCodeMaven\src\main\java\model\Vector3.java
-C:\Software\GIT\java\eclipseWorkspace\AdventOfCodeMaven\src\main\java\logic\ParticleSwarm.java
-C:\Software\GIT\java\eclipseWorkspace\AdventOfCodeMaven\src\main\java\core\Runner.java
-C:\Software\GIT\java\eclipseWorkspace\AdventOfCodeMaven\src\main\java\model\Particle.java
+C:\Software\GIT\Java\AdventOfCode\src\main\java\knotHash\model\KnotElement.java
+C:\Software\GIT\Java\AdventOfCode\src\main\java\particleSwarm\model\Vector3.java
+C:\Software\GIT\Java\AdventOfCode\src\main\java\particleSwarm\model\Particle.java
+C:\Software\GIT\Java\AdventOfCode\src\main\java\knotHash\logic\KnotHash.java
+C:\Software\GIT\Java\AdventOfCode\src\main\java\particleSwarm\logic\ParticleSwarm.java
+C:\Software\GIT\Java\AdventOfCode\src\main\java\core\Runner.java
+C:\Software\GIT\Java\AdventOfCode\src\main\java\knotHash\model\Knot.java

@@ -96,6 +96,7 @@ public class Knot {
 		while (current != last) {
 			if (num - i == firstIndex) {
 				this.first = current;
+				break;
 			}
 			i++;
 			current = current.getPrevious();

@@ -28,9 +28,6 @@ public class Particle {
 		this.pos = new Vector3(Long.parseLong(parts[i++]), Long.parseLong(parts[i++]), Long.parseLong(parts[i++]));
 		this.vel = new Vector3(Long.parseLong(parts[i++]), Long.parseLong(parts[i++]), Long.parseLong(parts[i++]));
 		this.acc = new Vector3(Long.parseLong(parts[i++]), Long.parseLong(parts[i++]), Long.parseLong(parts[i++]));
-
-		// System.out.println(this.pos.toString() + "\t" + this.vel.toString() + "\t" +
-		// this.acc.toString());
 	}
 
 	/* ----------- Init ----------- */
