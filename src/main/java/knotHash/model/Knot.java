@@ -90,9 +90,8 @@ public class Knot {
 
 	private void replaceFirst(final int num, final KnotElement first, final KnotElement last, int firstIndex) {
 		KnotElement current;
-		int i;
+		int i = 1;
 		current = first.getNext();
-		i = 1;
 		while (current != last) {
 			if (num - i == firstIndex) {
 				this.first = current;
